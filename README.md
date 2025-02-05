@@ -23,6 +23,9 @@ VFD(蛍光表示管)を使用したシンプルでスタイリッシュな時計
 |VFD|日本電気（ルネサス）製 FIP9B8-15P| |
 |寸法|117mm x 56mm x 33mm (W x H x D)| |
 
+## 回路図
+ - [回路図(pdf)](https://github.com/jp7dki/OEVFC-1/blob/main/OEVFC-1.pdf)
+
 ## 使い方
  - [Wiki(github)](https://github.com/jp7dki/OEVFC-1/wiki)
 
